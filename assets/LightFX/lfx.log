@@ -1,0 +1,22 @@
+2021-07-13 18:38:28 Version 31
+2021-07-13 18:38:28 E:\software\CocosCreator-v3.3.3\resources\tools\lightmap-tools/LightFX http://127.0.0.1:8000 
+2021-07-13 18:38:28 -:Building meshes
+2021-07-13 18:38:28 -:Building terrain
+2021-07-13 18:38:28 -:Building embree scene
+2021-07-13 18:38:29 Start 0
+
+2021-07-13 18:38:29 Build lighting 50
+
+2021-07-13 18:38:29 Build lighting 100
+
+2021-07-13 18:38:29 Save world...
+2021-07-13 18:38:29 Writing lfx file 'output/lfx.o'
+2021-07-13 18:38:29 Pack terrain 0 blocks 0 0 1 1
+2021-07-13 18:38:29 Save lighting map output/LFX_Terrain_0000.png
+2021-07-13 18:38:29 Writing lfx file end.
+2021-07-13 18:38:29 Save world end.
+2021-07-13 18:38:29 Clear world...
+2021-07-13 18:38:29 Clear world end.
+2021-07-13 18:38:29 Emit finished
+2021-07-13 18:38:29 Delete world
+2021-07-13 18:38:29 Wait to stop

@@ -1,0 +1,1477 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba",
+  "files": [],
+  "subMetas": {
+    "22878": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@22878",
+      "displayName": "",
+      "id": "22878",
+      "name": "WM_WoodRough_b_Cherry_mat-36.material",
+      "userData": {
+        "gltfIndex": 36
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29120": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@29120",
+      "displayName": "",
+      "id": "29120",
+      "name": "BackgroundMaterial-35.material",
+      "userData": {
+        "gltfIndex": 35
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46540": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@46540",
+      "displayName": "",
+      "id": "46540",
+      "name": "Box001.mesh",
+      "userData": {
+        "gltfIndex": 36
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "60072": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@60072",
+      "displayName": "",
+      "id": "60072",
+      "name": "WM_PlasterWall_a_Green_mat-2.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "66399": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@66399",
+      "displayName": "",
+      "id": "66399",
+      "name": "SamRoomBed_b_Mat-23.material",
+      "userData": {
+        "gltfIndex": 23
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96955": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@96955",
+      "displayName": "",
+      "id": "96955",
+      "name": "BarbecueGrill_a_Mat-4.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d3063": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d3063",
+      "displayName": "",
+      "id": "d3063",
+      "name": "SamBearskinRug_278.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "81e9b": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@81e9b",
+      "displayName": "",
+      "id": "81e9b",
+      "name": "SamRoomCeiling_a_14_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee10d": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@ee10d",
+      "displayName": "",
+      "id": "ee10d",
+      "name": "SamRoomBeam_a_71.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d5ac": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6d5ac",
+      "displayName": "",
+      "id": "6d5ac",
+      "name": "SamRoomCeiling_b_17.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0db16": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@0db16",
+      "displayName": "",
+      "id": "0db16",
+      "name": "BarbecueGrill_a_336_LOD1.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d042": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4d042",
+      "displayName": "",
+      "id": "4d042",
+      "name": "BarbecueGrill_b_339_LOD1.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56b18": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@56b18",
+      "displayName": "",
+      "id": "56b18",
+      "name": "PropaneTank_a_534.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32af9": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@32af9",
+      "displayName": "",
+      "id": "32af9",
+      "name": "PropaneTank_a2.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8b12": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@b8b12",
+      "displayName": "",
+      "id": "b8b12",
+      "name": "HousePergolaDeck_c_318.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6bc44": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6bc44",
+      "displayName": "",
+      "id": "6bc44",
+      "name": "LawnChair_a_553_Material0.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08923": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@08923",
+      "displayName": "",
+      "id": "08923",
+      "name": "CompressionBag_a_333.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d2c7": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4d2c7",
+      "displayName": "",
+      "id": "4d2c7",
+      "name": "SamRoomSlidingDoorFrame_a_173_Material0.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5dec": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@c5dec",
+      "displayName": "",
+      "id": "c5dec",
+      "name": "ChinaCabinet_a_199_Material0.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e0fb3": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e0fb3",
+      "displayName": "",
+      "id": "e0fb3",
+      "name": "SamRoomWindow_a_179_Material0.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6aba3": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6aba3",
+      "displayName": "",
+      "id": "6aba3",
+      "name": "SamRoomWindow_a2.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7cdaf": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@7cdaf",
+      "displayName": "",
+      "id": "7cdaf",
+      "name": "SamRoomSlidingDoor_a_176_Material0.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f47b": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@1f47b",
+      "displayName": "",
+      "id": "1f47b",
+      "name": "SamRoomCeilingWindow_b_77_Material0.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f4362": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f4362",
+      "displayName": "",
+      "id": "f4362",
+      "name": "DarkroomWorkbench_a_541.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f589": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8f589",
+      "displayName": "",
+      "id": "8f589",
+      "name": "DeveloperTray_a_544.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ce5a": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8ce5a",
+      "displayName": "",
+      "id": "8ce5a",
+      "name": "SamRoomDoormat_a_214.mesh",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e05ff": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e05ff",
+      "displayName": "",
+      "id": "e05ff",
+      "name": "WritingDesk_a_196.mesh",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e091b": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e091b",
+      "displayName": "",
+      "id": "e091b",
+      "name": "WindowSmall_a_202_LOD1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc817": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@dc817",
+      "displayName": "",
+      "id": "dc817",
+      "name": "SamRoomBed_a_187_Material0.mesh",
+      "userData": {
+        "gltfIndex": 22
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4dfc1": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4dfc1",
+      "displayName": "",
+      "id": "4dfc1",
+      "name": "PicnicBlanket_a_506.mesh",
+      "userData": {
+        "gltfIndex": 23
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "871c7": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@871c7",
+      "displayName": "",
+      "id": "871c7",
+      "name": "SamRoomWall_a_5.mesh",
+      "userData": {
+        "gltfIndex": 24
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3904": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e3904",
+      "displayName": "",
+      "id": "e3904",
+      "name": "SamSPDoor_131_Material0.mesh",
+      "userData": {
+        "gltfIndex": 25
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f762": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4f762",
+      "displayName": "",
+      "id": "4f762",
+      "name": "SamRoomCeilingWindow_a_74_Material0.mesh",
+      "userData": {
+        "gltfIndex": 26
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f555a": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f555a",
+      "displayName": "",
+      "id": "f555a",
+      "name": "SamsSPDoorFrame_129.mesh",
+      "userData": {
+        "gltfIndex": 27
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f4572": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f4572",
+      "displayName": "",
+      "id": "f4572",
+      "name": "Door_a_208.mesh",
+      "userData": {
+        "gltfIndex": 28
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e644": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8e644",
+      "displayName": "",
+      "id": "8e644",
+      "name": "SamRoomWall_b_7.mesh",
+      "userData": {
+        "gltfIndex": 29
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ccfc4": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@ccfc4",
+      "displayName": "",
+      "id": "ccfc4",
+      "name": "PicnicBasket_a_315.mesh",
+      "userData": {
+        "gltfIndex": 30
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ad60": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8ad60",
+      "displayName": "",
+      "id": "8ad60",
+      "name": "SamRoomCeilingWindow_b_078_Material0.mesh",
+      "userData": {
+        "gltfIndex": 31
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ff90": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@0ff90",
+      "displayName": "",
+      "id": "0ff90",
+      "name": "DoorFrame_a2_211.mesh",
+      "userData": {
+        "gltfIndex": 32
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c958": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@1c958",
+      "displayName": "",
+      "id": "1c958",
+      "name": "SamRoomWall_c_9.mesh",
+      "userData": {
+        "gltfIndex": 33
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93d66": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@93d66",
+      "displayName": "",
+      "id": "93d66",
+      "name": "SamRoomFloor_a_80.mesh",
+      "userData": {
+        "gltfIndex": 34
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "877e1": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@877e1",
+      "displayName": "",
+      "id": "877e1",
+      "name": "SamRoomDeerHead_a_303_Material0.mesh",
+      "userData": {
+        "gltfIndex": 35
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ecb0d": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@ecb0d",
+      "displayName": "",
+      "id": "ecb0d",
+      "name": "Wagon_a_381.mesh",
+      "userData": {
+        "gltfIndex": 37
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "affac": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@affac",
+      "displayName": "",
+      "id": "affac",
+      "name": "Cooler_a_478.mesh",
+      "userData": {
+        "gltfIndex": 38
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "01d5a": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@01d5a",
+      "displayName": "",
+      "id": "01d5a",
+      "name": "AntiqueTelevision_a_594_Material0.mesh",
+      "userData": {
+        "gltfIndex": 39
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ff2f": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@2ff2f",
+      "displayName": "",
+      "id": "2ff2f",
+      "name": "SamRoomFlag_a_363_LOD1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 40
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "85f71": {
+      "importer": "gltf-mesh",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@85f71",
+      "displayName": "",
+      "id": "85f71",
+      "name": "ArmyBackpack_a_229.mesh",
+      "userData": {
+        "gltfIndex": 41
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b5282": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@b5282",
+      "displayName": "",
+      "id": "b5282",
+      "name": "SamBearskinRug_Mat-0.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e50f": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8e50f",
+      "displayName": "",
+      "id": "8e50f",
+      "name": "WM_WoodPlanksRough_c_Mat-1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1bc2": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e1bc2",
+      "displayName": "",
+      "id": "e1bc2",
+      "name": "WM_WoodRough_c_Mat-3.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b5fe": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6b5fe",
+      "displayName": "",
+      "id": "6b5fe",
+      "name": "PropaneTank_a_Mat-5.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f953b": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f953b",
+      "displayName": "",
+      "id": "f953b",
+      "name": "Fbx Default Material-6.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c20de": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@c20de",
+      "displayName": "",
+      "id": "c20de",
+      "name": "WM_MetalBasicLight_a_mat-7.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b86f8": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@b86f8",
+      "displayName": "",
+      "id": "b86f8",
+      "name": "WM_WoodRough_b_mat-8.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9308c": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@9308c",
+      "displayName": "",
+      "id": "9308c",
+      "name": "LawnChairStraps_a_Mat-9.material",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cadbe": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@cadbe",
+      "displayName": "",
+      "id": "cadbe",
+      "name": "CompressionBag_a_Mat-10.material",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cfb47": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@cfb47",
+      "displayName": "",
+      "id": "cfb47",
+      "name": "GarageCeling_GlassSkylight_Mat-11.material",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55ae6": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@55ae6",
+      "displayName": "",
+      "id": "55ae6",
+      "name": "SamRoomSlidingDoor_a_Mat-12.material",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6f08": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d6f08",
+      "displayName": "",
+      "id": "d6f08",
+      "name": "Brass_a_Mat-13.material",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1b6f8": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@1b6f8",
+      "displayName": "",
+      "id": "1b6f8",
+      "name": "WindowFrameGlass_a_mat-14.material",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de9c4": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@de9c4",
+      "displayName": "",
+      "id": "de9c4",
+      "name": "ShelfWoodTrim_Mat-15.material",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96b28": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@96b28",
+      "displayName": "",
+      "id": "96b28",
+      "name": "WM_MetalBasic_a_mat-16.material",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "12d3f": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@12d3f",
+      "displayName": "",
+      "id": "12d3f",
+      "name": "DeveloperTray_a_Mat-17.material",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "480c2": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@480c2",
+      "displayName": "",
+      "id": "480c2",
+      "name": "SamRoomDoormat_a_Mat-18.material",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d29c4": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d29c4",
+      "displayName": "",
+      "id": "d29c4",
+      "name": "WritingDeskWood_a_Mat-19.material",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "deb1f": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@deb1f",
+      "displayName": "",
+      "id": "deb1f",
+      "name": "ShelfWoodTrim_Mat-20.material",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d639a": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d639a",
+      "displayName": "",
+      "id": "d639a",
+      "name": "WM_GlassDirty_a_Mat-21.material",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c9f0d": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@c9f0d",
+      "displayName": "",
+      "id": "c9f0d",
+      "name": "SamRoomBed_a_Mat-22.material",
+      "userData": {
+        "gltfIndex": 22
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b5c11": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@b5c11",
+      "displayName": "",
+      "id": "b5c11",
+      "name": "PicnicBlanket_a_Mat-24.material",
+      "userData": {
+        "gltfIndex": 24
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d984": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4d984",
+      "displayName": "",
+      "id": "4d984",
+      "name": "WM_Iron_b_Mat-25.material",
+      "userData": {
+        "gltfIndex": 25
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cc10b": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@cc10b",
+      "displayName": "",
+      "id": "cc10b",
+      "name": "Door_a_Mat-26.material",
+      "userData": {
+        "gltfIndex": 26
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0982": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d0982",
+      "displayName": "",
+      "id": "d0982",
+      "name": "Basket_a_Mat-27.material",
+      "userData": {
+        "gltfIndex": 27
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f10e2": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f10e2",
+      "displayName": "",
+      "id": "f10e2",
+      "name": "ShelfWood_Mat-28.material",
+      "userData": {
+        "gltfIndex": 28
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9995f": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@9995f",
+      "displayName": "",
+      "id": "9995f",
+      "name": "WM_WoodPlanksFloor_a_mat-29.material",
+      "userData": {
+        "gltfIndex": 29
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d57c": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@1d57c",
+      "displayName": "",
+      "id": "1d57c",
+      "name": "DeerStag_mat-30.material",
+      "userData": {
+        "gltfIndex": 30
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09982": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@09982",
+      "displayName": "",
+      "id": "09982",
+      "name": "WM_ShelfWood_a_mat-31.material",
+      "userData": {
+        "gltfIndex": 31
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e972": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4e972",
+      "displayName": "",
+      "id": "4e972",
+      "name": "01 - Default-32.material",
+      "userData": {
+        "gltfIndex": 32
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41bb4": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@41bb4",
+      "displayName": "",
+      "id": "41bb4",
+      "name": "Wagon_a_Mat-33.material",
+      "userData": {
+        "gltfIndex": 33
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ca33": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6ca33",
+      "displayName": "",
+      "id": "6ca33",
+      "name": "Cooler_a_Mat-34.material",
+      "userData": {
+        "gltfIndex": 34
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55c87": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@55c87",
+      "displayName": "",
+      "id": "55c87",
+      "name": "WM_MetalBasic_a_mat-37.material",
+      "userData": {
+        "gltfIndex": 37
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4221": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e4221",
+      "displayName": "",
+      "id": "e4221",
+      "name": "SamRoomFlag_a_Mat-38.material",
+      "userData": {
+        "gltfIndex": 38
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc1bc": {
+      "importer": "gltf-material",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@bc1bc",
+      "displayName": "",
+      "id": "bc1bc",
+      "name": "ArmyBackpack_a_Mat-39.material",
+      "userData": {
+        "gltfIndex": 39
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6be47": {
+      "importer": "gltf-scene",
+      "uuid": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6be47",
+      "displayName": "",
+      "id": "6be47",
+      "name": "DemoMap2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6be47",
+    "assetFinder": {
+      "meshes": [
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d3063",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@81e9b",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@ee10d",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6d5ac",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@0db16",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4d042",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@56b18",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@32af9",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@b8b12",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6bc44",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@08923",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4d2c7",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@c5dec",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e0fb3",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6aba3",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@7cdaf",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@1f47b",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f4362",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8f589",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8ce5a",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e05ff",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e091b",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@dc817",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4dfc1",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@871c7",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e3904",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4f762",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f555a",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f4572",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8e644",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@ccfc4",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8ad60",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@0ff90",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@1c958",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@93d66",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@877e1",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@46540",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@ecb0d",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@affac",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@01d5a",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@2ff2f",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@85f71"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@b5282",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@8e50f",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@60072",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e1bc2",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@96955",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6b5fe",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f953b",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@c20de",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@b86f8",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@9308c",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@cadbe",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@cfb47",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@55ae6",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d6f08",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@1b6f8",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@de9c4",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@96b28",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@12d3f",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@480c2",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d29c4",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@deb1f",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d639a",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@c9f0d",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@66399",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@b5c11",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4d984",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@cc10b",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@d0982",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@f10e2",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@9995f",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@1d57c",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@09982",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@4e972",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@41bb4",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6ca33",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@29120",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@22878",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@55c87",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@e4221",
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@bc1bc"
+      ],
+      "scenes": [
+        "c3dd7ead-b919-4ad1-8350-d44e5683c3ba@6be47"
+      ]
+    }
+  }
+}

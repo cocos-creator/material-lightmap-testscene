@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "641b9d63-243f-4184-ab43-845e201fab87",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_NORMAL_MAP": true,
+      "USE_ALBEDO_MAP": true,
+      "USE_METALLIC_ROUGHNESS_MAP": true,
+      "USE_ALPHA_TEST": true
+    },
+    {},
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {},
+    {},
+    {}
+  ],
+  "_props": [
+    {
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 175,
+        "g": 175,
+        "b": 175,
+        "a": 255
+      },
+      "alphaThreshold": 0,
+      "roughness": 1,
+      "highlightColor": {
+        "__type__": "cc.Color",
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "Fresnelcol": {
+        "__type__": "cc.Color",
+        "r": 177,
+        "g": 227,
+        "b": 255,
+        "a": 107
+      },
+      "_fresnelScale": 0.6,
+      "_fresnelIndensity": 4,
+      "mainTexture": {
+        "__uuid__": "8726223a-19f0-4eef-8533-4a72a2f3a138@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "normalMap": {
+        "__uuid__": "1ce7ac4c-1724-4eeb-966d-048feb225a73@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "metallicRoughnessMap": {
+        "__uuid__": "1ce3974e-cf11-47d0-a5c4-1f073eea42b1@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      }
+    },
+    {},
+    {},
+    {}
+  ]
+}

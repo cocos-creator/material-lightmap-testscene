@@ -1,0 +1,172 @@
+{
+  "__version__": "1.2.9",
+  "version": {
+    "builder": "1.2.3"
+  },
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "scenes": [
+      {
+        "url": "db://assets/scene.scene",
+        "uuid": "c433057a-81aa-4593-9f23-0510ecb21ba8",
+        "inBundle": false
+      }
+    ],
+    "outputName": "windows",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "windows"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1629366416831": {
+        "id": "1629366416831",
+        "progress": 1,
+        "state": "failure",
+        "message": "2021-8-19 17:47 build failed!ENOENT: no such file or directory, lstat 'D:\\editor-3d\\resources\\3d\\engine-native\\templates\\common'",
+        "options": {
+          "name": "show-material",
+          "platform": "windows",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "c433057a-81aa-4593-9f23-0510ecb21ba8",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "c433057a-81aa-4593-9f23-0510ecb21ba8",
+              "inBundle": false
+            }
+          ],
+          "outputName": "windows",
+          "packages": {
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "f8gFC3jvJKvImQ2F",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "taskFlow"
+            },
+            "cocos-service": {
+              "configID": "be7cb2",
+              "services": []
+            },
+            "windows": {
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": false
+              },
+              "targetPlatform": "win32"
+            }
+          }
+        },
+        "time": "2021-8-19 17:46",
+        "dirty": false
+      },
+      "1629367721245": {
+        "id": "1629367721245",
+        "progress": 1,
+        "state": "failure",
+        "message": "2021-8-19 18:10 build failed!run cmake failed \"cmake -S\"E:/showmaterial-5-28 - v3.3/material-examples/show-material/native/engine/win32\" -B\"E:/showmaterial-5-28 - v3.3/material-examples/show-material/build/windows-001/proj\" -A win32 -DRES_DIR=\"E:/showmaterial-5-28 - v3.3/material-examples/show-material/build/windows-001\"\", code: 1, signal: null",
+        "options": {
+          "name": "show-material",
+          "platform": "windows",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "c433057a-81aa-4593-9f23-0510ecb21ba8",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "c433057a-81aa-4593-9f23-0510ecb21ba8",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/material-AO-SPECULAR.scene",
+              "uuid": "7e36e6e2-1eac-4d7d-b137-e7e70da4c0a4",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/material-ball-Gaussian blur and UV expansion.scene",
+              "uuid": "afcfa6a0-b379-48d3-a1bd-968cb82aa37e",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/material-ball.scene",
+              "uuid": "1272e8b0-6114-4d37-a89a-faea015f6f84",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/material-box.scene",
+              "uuid": "33c84a88-52e5-429b-ae90-0ee71e78332b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/material-cloth.scene",
+              "uuid": "b6b9af57-9500-4a67-8b7f-1a46f035dd73",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/material-jelly-linearbuilding-water.scene",
+              "uuid": "ea5fbd40-7cbc-4b64-b8da-c7ca7cdf495e",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/material-landscape.scene",
+              "uuid": "6b9b0167-1af2-4b38-b55b-6a96d53b99e5",
+              "inBundle": false
+            }
+          ],
+          "outputName": "windows-001",
+          "packages": {
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "b8/Nm0+3RMT4Ymk2",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "taskFlow"
+            },
+            "cocos-service": {
+              "configID": "be7cb2",
+              "services": []
+            },
+            "windows": {
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": false
+              },
+              "targetPlatform": "win32"
+            }
+          }
+        },
+        "time": "2021-8-19 18:08",
+        "dirty": false
+      }
+    }
+  }
+}

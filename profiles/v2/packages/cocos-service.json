@@ -1,0 +1,16 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "be7cb2",
+      "services": []
+    },
+    "windows": {
+      "configID": "be7cb2",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "be7cb2",
+    "services": []
+  }
+}

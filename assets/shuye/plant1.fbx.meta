@@ -1,0 +1,207 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f",
+  "files": [],
+  "subMetas": {
+    "81712": {
+      "importer": "gltf-mesh",
+      "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f@81712",
+      "displayName": "",
+      "id": "81712",
+      "name": "U3DMesh_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e38ed": {
+      "importer": "texture",
+      "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f@e38ed",
+      "displayName": "",
+      "id": "e38ed",
+      "name": "texmap1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/shuye/plant1branch.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f4cd": {
+      "importer": "texture",
+      "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f@4f4cd",
+      "displayName": "",
+      "id": "4f4cd",
+      "name": "texmap0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/shuye/plant1branch.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e5b7": {
+      "importer": "texture",
+      "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f@2e5b7",
+      "displayName": "",
+      "id": "2e5b7",
+      "name": "texmap3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/shuye/plant1bark.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "63aea": {
+      "importer": "texture",
+      "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f@63aea",
+      "displayName": "",
+      "id": "63aea",
+      "name": "texmap2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/shuye/plant1bark.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36bce": {
+      "importer": "gltf-material",
+      "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f@36bce",
+      "displayName": "",
+      "id": "36bce",
+      "name": "branch.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc328": {
+      "importer": "gltf-material",
+      "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f@dc328",
+      "displayName": "",
+      "id": "dc328",
+      "name": "bark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fb98c": {
+      "importer": "gltf-scene",
+      "uuid": "c4089abb-f840-4e75-a448-7ffdd3b6890f@fb98c",
+      "displayName": "",
+      "id": "fb98c",
+      "name": "plant1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "texmap1",
+        "uri": "db://assets/shuye/plant1branch.png"
+      },
+      {
+        "name": "texmap0",
+        "uri": "db://assets/shuye/plant1branch.png"
+      },
+      {
+        "name": "texmap3",
+        "uri": "db://assets/shuye/plant1bark.png"
+      },
+      {
+        "name": "texmap2",
+        "uri": "db://assets/shuye/plant1bark.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "c4089abb-f840-4e75-a448-7ffdd3b6890f@fb98c",
+    "assetFinder": {
+      "meshes": [
+        "c4089abb-f840-4e75-a448-7ffdd3b6890f@81712"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c4089abb-f840-4e75-a448-7ffdd3b6890f@e38ed",
+        "c4089abb-f840-4e75-a448-7ffdd3b6890f@4f4cd",
+        "c4089abb-f840-4e75-a448-7ffdd3b6890f@2e5b7",
+        "c4089abb-f840-4e75-a448-7ffdd3b6890f@63aea"
+      ],
+      "materials": [
+        "c4089abb-f840-4e75-a448-7ffdd3b6890f@36bce",
+        "c4089abb-f840-4e75-a448-7ffdd3b6890f@dc328"
+      ],
+      "scenes": [
+        "c4089abb-f840-4e75-a448-7ffdd3b6890f@fb98c"
+      ]
+    }
+  }
+}
